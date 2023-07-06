@@ -134,18 +134,24 @@ NGword:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**CustomChat v1.7**](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.7/CustomChat%20v1.7.jar) | `1.7.2-1.10.2` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
+| [**CustomChat v1.7**](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.7/CustomChat%20v1.7.jar) | `1.7.2-1.10.2` | [`Vault`](#連携プラグイン), `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [CustomChat v1.6](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.6/CustomChat%20v1.6.jar) | `1.7.2-1.10.2` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
-| [CustomChat v1.5](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.5/CustomChat%20v1.5.jar) | `1.7.2-1.10.2` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
-| [CustomChat v1.4](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.4/CustomChat%20v1.4.jar) | `1.7.2-1.10.2` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
-| [CustomChat v1.3](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.3/CustomChat%20v1.3.jar) | `1.7.2-1.10.2` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
-| [CustomChat v1.2](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.2/CustomChat%20v1.2.jar) | `1.7.2-1.10.2` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
-| [CustomChat v1.1](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.1/CustomChat%20v1.1.jar) | `1.7.2-1.8.9` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
-| ~~CustomChat v1.0~~ | `1.7.2-1.8.9` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
+| [CustomChat v1.6](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.6/CustomChat%20v1.6.jar) | `1.7.2-1.10.2` | [`Vault`](#連携プラグイン), `Java8` |
+| [CustomChat v1.5](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.5/CustomChat%20v1.5.jar) | `1.7.2-1.10.2` | [`Vault`](#連携プラグイン), `Java8` |
+| [CustomChat v1.4](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.4/CustomChat%20v1.4.jar) | `1.7.2-1.10.2` | [`Vault`](#連携プラグイン), `Java8` |
+| [CustomChat v1.3](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.3/CustomChat%20v1.3.jar) | `1.7.2-1.10.2` | [`Vault`](#連携プラグイン), `Java8` |
+| [CustomChat v1.2](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.2/CustomChat%20v1.2.jar) | `1.7.2-1.10.2` | [`Vault`](#連携プラグイン), `Java8` |
+| [CustomChat v1.1](https://github.com/yuttyann/FileArchive/raw/main/CustomChat/jar/1.1/CustomChat%20v1.1.jar) | `1.7.2-1.8.9` | [`Vault`](#連携プラグイン), `Java8` |
+| ~~CustomChat v1.0~~ | `1.7.2-1.8.9` | [`Vault`](#連携プラグイン), `Java8` |
 </details>
+
+連携プラグイン
+-----------
+| プラグイン | 実装 | 説明 |
+|:---|:---|:---|
+| [Vault](https://www.spigotmc.org/resources/34315/) | `1.0-1.7` | PrefixやSuffixの利用が可能になります。 |

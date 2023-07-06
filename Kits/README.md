@@ -256,4 +256,10 @@ Kits:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**Kits v1.0**](https://github.com/yuttyann/FileArchive/raw/main/Kits/jar/1.0/Kits%20v1.0.jar) | `1.7.2-1.12.2` | [`Vault`](https://www.spigotmc.org/resources/34315/), `Java8` |
+| [**Kits v1.0**](https://github.com/yuttyann/FileArchive/raw/main/Kits/jar/1.0/Kits%20v1.0.jar) | `1.7.2-1.12.2` | `Java8` |
+
+連携プラグイン
+-----------
+| プラグイン | 実装 | 説明 |
+|:---|:---|:---|
+| [Vault](https://www.spigotmc.org/resources/34315/) | `1.0` | マネーシステムの利用が可能になります。 |

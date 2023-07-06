@@ -384,4 +384,11 @@ Motd:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**CustomMessage v1.0.0**](https://github.com/yuttyann/FileArchive/raw/main/CustomMessage/jar/1.0.0/CustomMessage%20v1.0.0.jar) | `1.7.2-1.11.2` | [`ProtocolLib`](https://www.spigotmc.org/resources/1997/), [`Kits`](https://github.com/yuttyann/FileArchive/tree/main/Kits), `Java8` |
+| [**CustomMessage v1.0.0**](https://github.com/yuttyann/FileArchive/raw/main/CustomMessage/jar/1.0.0/CustomMessage%20v1.0.0.jar) | `1.7.2-1.11.2` | `Java8` |
+
+連携プラグイン
+-----------
+| プラグイン | 実装 | 説明 |
+|:---|:---|:---|
+| [`Kits`](https://github.com/yuttyann/FileArchive/tree/main/Kits) | `1.0.0` | ログイン時にアイテムを配布することができます。 |
+| [`ProtocolLib`](https://www.spigotmc.org/resources/1997/) | `1.0.0` | サーバー人数のメッセージをカスタムすることができます。 |

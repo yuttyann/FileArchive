@@ -86,7 +86,20 @@ Scope:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**GunScopeandRecoil v1.3**](https://github.com/yuttyann/FileArchive/raw/main/GunScopeandRecoil/1.3/GunScopeandRecoil%20v1.3.jar) | `1.7.2-1.10.2` | [CrackShot](https://dev.bukkit.org/projects/crackshot), `Java8` |
-| [GunScopeandRecoil v1.2](https://github.com/yuttyann/FileArchive/raw/main/GunScopeandRecoil/1.2/GunScopeandRecoil%20v1.2.jar) | `1.7.2-1.8.9` | [CrackShot](https://dev.bukkit.org/projects/crackshot), `Java8` |
-| [GunScopeandRecoil v1.1](https://github.com/yuttyann/FileArchive/raw/main/GunScopeandRecoil/1.1/GunScopeandRecoil%20v1.1.jar) | `1.7.2-1.8.9` | [CrackShot](https://dev.bukkit.org/projects/crackshot), `Java8` |
-| ~~GunScopeandRecoil v1.0~~ | `1.7.2-1.8.9` | [CrackShot](https://dev.bukkit.org/projects/crackshot), `Java8` |
+| [**GunScopeandRecoil v1.3**](https://github.com/yuttyann/FileArchive/raw/main/GunScopeandRecoil/1.3/GunScopeandRecoil%20v1.3.jar) | `1.7.2-1.10.2` | [CrackShot](#連携プラグイン), `Java8` |
+
+<details>
+<summary>過去のバージョン</summary>
+
+| プラグイン | サポート | 前提環境 |
+|:---:|:---:|:---:|
+| [GunScopeandRecoil v1.2](https://github.com/yuttyann/FileArchive/raw/main/GunScopeandRecoil/1.2/GunScopeandRecoil%20v1.2.jar) | `1.7.2-1.8.9` | [CrackShot](#連携プラグイン), `Java8` |
+| [GunScopeandRecoil v1.1](https://github.com/yuttyann/FileArchive/raw/main/GunScopeandRecoil/1.1/GunScopeandRecoil%20v1.1.jar) | `1.7.2-1.8.9` | [CrackShot](#連携プラグイン), `Java8` |
+| ~~GunScopeandRecoil v1.0~~ | `1.7.2-1.8.9` | [CrackShot](#連携プラグイン), `Java8` |
+</details>
+
+連携プラグイン
+-----------
+| プラグイン | 実装 | 説明 |
+|:---|:---|:---|
+| [CrackShot](https://dev.bukkit.org/projects/crackshot) | `1.0-1.3` | プラグインを動作させるために必要です。 |

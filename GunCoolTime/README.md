@@ -63,13 +63,19 @@ Weapons:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**GunCoolTime v1.2**](https://github.com/yuttyann/FileArchive/raw/main/GunCoolTime/jar/1.2/GunCoolTime%20v1.2.jar) | `1.7.2-1.8.9` | [CrackShot](https://dev.bukkit.org/projects/crackshot), `Java8` |
+| [**GunCoolTime v1.2**](https://github.com/yuttyann/FileArchive/raw/main/GunCoolTime/jar/1.2/GunCoolTime%20v1.2.jar) | `1.7.2-1.8.9` | [CrackShot](#連携プラグイン), `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| ~~GunCoolTime v1.1~~ | `1.7.2-1.8.9` | [CrackShot](https://dev.bukkit.org/projects/crackshot), `Java8` |
-| ~~GunCoolTime v1.0~~ | `1.7.2-1.8.9` | [CrackShot](https://dev.bukkit.org/projects/crackshot), `Java8` |
+| ~~GunCoolTime v1.1~~ | `1.7.2-1.8.9` | [CrackShot](#連携プラグイン), `Java8` |
+| ~~GunCoolTime v1.0~~ | `1.7.2-1.8.9` | [CrackShot](#連携プラグイン), `Java8` |
 </details>
+
+連携プラグイン
+-----------
+| プラグイン | 実装 | 説明 |
+|:---|:---|:---|
+| [CrackShot](https://dev.bukkit.org/projects/crackshot) | `1.0-1.2` | プラグインを動作させるために必要です。 |
