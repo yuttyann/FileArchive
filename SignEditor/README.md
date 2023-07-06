@@ -52,13 +52,13 @@ AutoDownload: true
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**SignEditor v1.2**](https://github.com/yuttyann/FileArchive/raw/main/SignEditor/jar/1.2/SignEditor%20v1.2.jar) | `1.7.2-1.9.x` | `Java8` |
+| [**SignEditor v1.2**](https://github.com/yuttyann/FileArchive/raw/main/SignEditor/jar/1.2/SignEditor%20v1.2.jar) | `1.7.2-1.9.4` | `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [SignEditor v1.1](https://github.com/yuttyann/FileArchive/raw/main/SignEditor/jar/1.1/SignEditor%20v1.1.jar) | `1.7.2-1.8.x` | `Java8` |
-| ~~SignEditor v1.0~~ | `1.7.2-1.8.x` | `Java8` |
+| [SignEditor v1.1](https://github.com/yuttyann/FileArchive/raw/main/SignEditor/jar/1.1/SignEditor%20v1.1.jar) | `1.7.2-1.8.9` | `Java8` |
+| ~~SignEditor v1.0~~ | `1.7.2-1.8.9` | `Java8` |
 </details>

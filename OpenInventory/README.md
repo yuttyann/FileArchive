@@ -27,4 +27,4 @@ OpenInventory
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**OpenInventory v1.0**](https://github.com/yuttyann/FileArchive/raw/main/OpenInventory/jar/1.0/OpenInventory%20v1.0.jar) | `1.7.2-1.8.x` | `Java8` |
+| [**OpenInventory v1.0**](https://github.com/yuttyann/FileArchive/raw/main/OpenInventory/jar/1.0/OpenInventory%20v1.0.jar) | `1.7.2-1.8.9` | `Java8` |

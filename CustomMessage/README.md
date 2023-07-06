@@ -384,4 +384,4 @@ Motd:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**CustomMessage v1.0.0**](https://github.com/yuttyann/FileArchive/raw/main/CustomMessage/jar/1.0.0/CustomMessage%20v1.0.0.jar) | `1.7.2-1.11.x` | [`ProtocolLib`](https://www.spigotmc.org/resources/1997/), [`Kits`](https://github.com/yuttyann/FileArchive/tree/main/Kits), `Java8` |
+| [**CustomMessage v1.0.0**](https://github.com/yuttyann/FileArchive/raw/main/CustomMessage/jar/1.0.0/CustomMessage%20v1.0.0.jar) | `1.7.2-1.11.2` | [`ProtocolLib`](https://www.spigotmc.org/resources/1997/), [`Kits`](https://github.com/yuttyann/FileArchive/tree/main/Kits), `Java8` |

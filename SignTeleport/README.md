@@ -45,12 +45,12 @@ SignTeleport
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**SignTeleport v1.1**](https://github.com/yuttyann/FileArchive/raw/main/SignTeleport/jar/1.1/SignTeleport%20v1.1.jar) | `1.7.2-1.8.x` | `Java8` |
+| [**SignTeleport v1.1**](https://github.com/yuttyann/FileArchive/raw/main/SignTeleport/jar/1.1/SignTeleport%20v1.1.jar) | `1.7.2-1.8.9` | `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [SignTeleport v1.0](https://github.com/yuttyann/FileArchive/raw/main/SignTeleport/jar/1.0/SignTeleport%20v1.0.jar) | `1.7.2-1.8.x` | `Java8` |
+| [SignTeleport v1.0](https://github.com/yuttyann/FileArchive/raw/main/SignTeleport/jar/1.0/SignTeleport%20v1.0.jar) | `1.7.2-1.8.9` | `Java8` |
 </details>

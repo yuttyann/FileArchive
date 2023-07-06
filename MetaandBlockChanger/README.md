@@ -51,5 +51,5 @@ Enable_ReplaceTool: true
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**MetaandBlockChanger v1.1**](https://github.com/yuttyann/FileArchive/raw/main/MetaandBlockChanger/jar/1.1/MetaandBlockChanger%20v1.1.jar) | `1.7.2-1.8.x` | `Java8` |
-| ~~MetaandBlockChanger v1.0~~ | `1.7.2-1.8.x` | `Java8` |
+| [**MetaandBlockChanger v1.1**](https://github.com/yuttyann/FileArchive/raw/main/MetaandBlockChanger/jar/1.1/MetaandBlockChanger%20v1.1.jar) | `1.7.2-1.8.9` | `Java8` |
+| ~~MetaandBlockChanger v1.0~~ | `1.7.2-1.8.9` | `Java8` |

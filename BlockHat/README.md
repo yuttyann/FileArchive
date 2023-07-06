@@ -38,4 +38,4 @@ BlockHat
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**BlockHat v1.0**](https://github.com/yuttyann/FileArchive/raw/main/BlockHat/jar/1.0/BlockHat%20v1.0.jar) | `1.7.2-1.8.x` | `Java8` |
+| [**BlockHat v1.0**](https://github.com/yuttyann/FileArchive/raw/main/BlockHat/jar/1.0/BlockHat%20v1.0.jar) | `1.7.2-1.8.9` | `Java8` |

@@ -76,12 +76,12 @@ ItemFrameClickAdventure: true
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**WorldProtection v1.1**](https://github.com/yuttyann/FileArchive/raw/main/WorldProtection/jar/1.1/WorldProtection%20v1.1.jar) | `1.7.2-1.8.x` | `Java8` |
+| [**WorldProtection v1.1**](https://github.com/yuttyann/FileArchive/raw/main/WorldProtection/jar/1.1/WorldProtection%20v1.1.jar) | `1.7.2-1.8.9` | `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| ~~WorldProtection v1.0~~ | `1.7.2-1.8.x` | `Java8` |
+| ~~WorldProtection v1.0~~ | `1.7.2-1.8.9` | `Java8` |
 </details>

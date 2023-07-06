@@ -475,7 +475,7 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 | [Vault](https://www.spigotmc.org/resources/34315/) | `1.0.0-2.2.5` | 権限、経済系の機能を利用することができます。 |
 | [DiscordSRV](https://www.spigotmc.org/resources/18494/) | `2.1.4-2.2.5` | ディスコ―ドと連携することができます。 |
 | [PlaceholderAPI](https://www.spigotmc.org/resources/6245/) | `1.8.7-2.2.5` | プレースホルダを更に拡張することができます。 |
-| [ScriptEntityPlus](https://www.spigotmc.org/resources/80165/) | `1.9.3-2.2.5` | エンティティにスクリプトを紐付けすることができます。 |
+| [ScriptEntityPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptEntityPlus) | `1.9.3-2.2.5` | エンティティにスクリプトを紐付けすることができます。 |
 
 <details>
 <summary>過去の連携プラグイン</summary>

@@ -50,4 +50,4 @@
 ## リンク
 | 名前 | 概要 |
 |:---|:---|
-| [MCPoteton](https://mcpoteton.com/) | 制作したプラグインの紹介を行ってくれています。 |
+| [MCPoteton](https://mcpoteton.com/) | プラグインの紹介を行ってくれています。 |

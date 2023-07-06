@@ -27,4 +27,4 @@ SkullPlugin
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**SkullPlugin v1.0**](https://github.com/yuttyann/FileArchive/raw/main/SkullPlugin/jar/1.0/SkullPlugin%20v1.0.jar) | `1.7.2-1.8.x` | `Java8` |
+| [**SkullPlugin v1.0**](https://github.com/yuttyann/FileArchive/raw/main/SkullPlugin/jar/1.0/SkullPlugin%20v1.0.jar) | `1.7.2-1.8.9` | `Java8` |

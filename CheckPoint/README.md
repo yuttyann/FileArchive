@@ -66,4 +66,4 @@ CheckPointMessage:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**CheckPoint v1.0**](https://github.com/yuttyann/FileArchive/raw/main/CheckPoint/jar/1.0/CheckPoint%20v1.0.jar) | `1.7.2-1.10.x` | `Java8` |
+| [**CheckPoint v1.0**](https://github.com/yuttyann/FileArchive/raw/main/CheckPoint/jar/1.0/CheckPoint%20v1.0.jar) | `1.7.2-1.10.2` | `Java8` |

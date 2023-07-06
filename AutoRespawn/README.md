@@ -21,5 +21,5 @@ AutoRespawn
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
 | [AutoRespawn v1.1](https://github.com/yuttyann/FileArchive/raw/main/AutoRespawn/jar/1.1/AutoRespawn%20v1.1.jar) | `1.5-1.9.2` | `Java8` |
-| [AutoRespawn v1.0](https://github.com/yuttyann/FileArchive/raw/main/AutoRespawn/jar/1.0/AutoRespawn%20v1.0.jar) | `1.5-1.8.x` | `Java8` |
+| [AutoRespawn v1.0](https://github.com/yuttyann/FileArchive/raw/main/AutoRespawn/jar/1.0/AutoRespawn%20v1.0.jar) | `1.5-1.8.9` | `Java8` |
 </details>

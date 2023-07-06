@@ -68,12 +68,12 @@ Items:
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**KDStatus-vPotato v1.0.1**](https://github.com/yuttyann/FileArchive/raw/main/KDStatus-vPotato/jar/1.0.1/KDStatus-vPotato%20v1.0.1.jar) | `1.8-1.14.x` | `Java8` |
+| [**KDStatus-vPotato v1.0.1**](https://github.com/yuttyann/FileArchive/raw/main/KDStatus-vPotato/jar/1.0.1/KDStatus-vPotato%20v1.0.1.jar) | `1.8-1.14.4` | `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [KDStatus-vPotato v1.0.0](https://github.com/yuttyann/FileArchive/raw/main/KDStatus-vPotato/jar/1.0.0/KDStatus-vPotato%20v1.0.0.jar) | `1.8-1.14.x` | `Java8` |
+| [KDStatus-vPotato v1.0.0](https://github.com/yuttyann/FileArchive/raw/main/KDStatus-vPotato/jar/1.0.0/KDStatus-vPotato%20v1.0.0.jar) | `1.8-1.14.4` | `Java8` |
 </details>
