@@ -3,7 +3,7 @@ ScriptEntityPlus
 
 概要
 -----------
-このプラグインは[`ScriptBlockPlus`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus)の拡張プラグインです。  
+このプラグインは[`ScriptBlockPlus`](#連携プラグイン)の拡張プラグインです。  
 エンティティにスクリプトを設定することができる**Bukkitプラグイン**です。  
 <details>
 <summary>使い方</summary>
@@ -48,7 +48,7 @@ UUIDの変更(例: 額縁のアイテムを変更等)があった場合設定フ
 
 | 権限 | 説明 |
 |:---|:---|
-| scriptentityplus.tool.scriptconnection | Script Connectionを利用するために必要な権限です。 |
+| scriptentityplus.tool.scriptconnection | `Script Connection`を利用するために必要です。 |
 </details>
 
 ファイル
@@ -123,33 +123,39 @@ ScriptRemoveEntityMessage: '&cエンティティ"%entitytype%"のスクリプト
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**ScriptEntityPlus v1.2.2**](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.2/ScriptEntityPlus%20v1.2.2.jar) | `1.9-1.19.2` | [`ScriptBlockPlus v2.2.1`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
+| [**ScriptEntityPlus v1.2.2**](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.2/ScriptEntityPlus%20v1.2.2.jar) | `1.9-1.19.2` | [`ScriptBlockPlus v2.2.1`](#連携プラグイン), `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [ScriptEntityPlus v1.2.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.1/ScriptEntityPlus%20v1.2.1.jar) | `1.9-1.18` | [`ScriptBlockPlus v2.2.1`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.2.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.0/ScriptEntityPlus%20v1.2.0.jar) | `1.9-1.18` | [`ScriptBlockPlus v2.2.0`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.9](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.9/ScriptEntityPlus%20v1.1.9.jar) | `1.9-1.17.1` | [`ScriptBlockPlus v2.1.8`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.8](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.8/ScriptEntityPlus%20v1.1.8.jar) | `1.9-1.17.1` | [`ScriptBlockPlus v2.1.7`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.7](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.7/ScriptEntityPlus%20v1.1.7.jar) | `1.9-1.17.1` | [`ScriptBlockPlus v2.1.6`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.6](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.6/ScriptEntityPlus%20v1.1.6.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.4`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.5](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.5/ScriptEntityPlus%20v1.1.5.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.3`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.4](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.4/ScriptEntityPlus%20v1.1.4.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.2`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.3](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.3/ScriptEntityPlus%20v1.1.3.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.0`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.2/ScriptEntityPlus%20v1.1.2.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.9`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.1/ScriptEntityPlus%20v1.1.1.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.8`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.1.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.0/ScriptEntityPlus%20v1.1.0.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.7`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.9](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.9/ScriptEntityPlus%20v1.0.9.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.5`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.8](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.8/ScriptEntityPlus%20v1.0.8.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.4`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.7](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.7/ScriptEntityPlus%20v1.0.7.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.3`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.6](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.6/ScriptEntityPlus%20v1.0.6.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.2`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.5](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.5/ScriptEntityPlus%20v1.0.5.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.1`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.4](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.4/ScriptEntityPlus%20v1.0.4.jar) | `1.9-1.16.2` | [`ScriptBlockPlus v2.0.0`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.3](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.3/ScriptEntityPlus%20v1.0.3.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.2/ScriptEntityPlus%20v1.0.2.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.1/ScriptEntityPlus%20v1.0.1.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
-| [ScriptEntityPlus v1.0.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.0/ScriptEntityPlus%20v1.0.0.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus), `Java8` |
+| [ScriptEntityPlus v1.2.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.1/ScriptEntityPlus%20v1.2.1.jar) | `1.9-1.18` | [`ScriptBlockPlus v2.2.1`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.2.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.0/ScriptEntityPlus%20v1.2.0.jar) | `1.9-1.18` | [`ScriptBlockPlus v2.2.0`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.9](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.9/ScriptEntityPlus%20v1.1.9.jar) | `1.9-1.17.1` | [`ScriptBlockPlus v2.1.8`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.8](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.8/ScriptEntityPlus%20v1.1.8.jar) | `1.9-1.17.1` | [`ScriptBlockPlus v2.1.7`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.7](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.7/ScriptEntityPlus%20v1.1.7.jar) | `1.9-1.17.1` | [`ScriptBlockPlus v2.1.6`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.6](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.6/ScriptEntityPlus%20v1.1.6.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.4`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.5](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.5/ScriptEntityPlus%20v1.1.5.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.3`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.4](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.4/ScriptEntityPlus%20v1.1.4.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.2`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.3](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.3/ScriptEntityPlus%20v1.1.3.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.1.0`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.2/ScriptEntityPlus%20v1.1.2.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.9`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.1/ScriptEntityPlus%20v1.1.1.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.8`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.1.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.0/ScriptEntityPlus%20v1.1.0.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.7`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.9](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.9/ScriptEntityPlus%20v1.0.9.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.5`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.8](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.8/ScriptEntityPlus%20v1.0.8.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.4`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.7](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.7/ScriptEntityPlus%20v1.0.7.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.3`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.6](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.6/ScriptEntityPlus%20v1.0.6.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.2`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.5](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.5/ScriptEntityPlus%20v1.0.5.jar) | `1.9-1.16.5` | [`ScriptBlockPlus v2.0.1`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.4](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.4/ScriptEntityPlus%20v1.0.4.jar) | `1.9-1.16.2` | [`ScriptBlockPlus v2.0.0`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.3](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.3/ScriptEntityPlus%20v1.0.3.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.2/ScriptEntityPlus%20v1.0.2.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.1/ScriptEntityPlus%20v1.0.1.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](#連携プラグイン), `Java8` |
+| [ScriptEntityPlus v1.0.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.0.0/ScriptEntityPlus%20v1.0.0.jar) | `1.9-1.15.2` | [`ScriptBlockPlus v1.9.3`](#連携プラグイン), `Java8` |
 </details>
+
+連携プラグイン
+-----------
+| プラグイン | 実装 | 説明 |
+|:---|:---|:---|
+| [ScriptBlockPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus) | `1.0.0-1.2.2` | プラグインを動作させるために必要です。 |
