@@ -1,9 +1,5 @@
-ScriptBlockPlus
+[ScriptBlockPlus](https://github.com/yuttyann/ScriptBlockPlus)
 ==========
-
-## 留意事項
-古い仕様のプラグインであるため、基本的に修正や機能追加等のアップデートは行いません。  
-また、最新のバージョンの情報を記載しています。
 
 概要
 -----------

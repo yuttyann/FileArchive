@@ -1,4 +1,4 @@
-ScriptEntityPlus
+[ScriptEntityPlus](https://github.com/yuttyann/ScriptEntityPlus)
 ==========
 
 概要
