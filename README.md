@@ -18,7 +18,7 @@
 ### 開発中
 | 名前 | 説明 |
 |:---|:---|
-| **ScriptBlock-Universal** | ScriptBlockPlusの後継となる**Bukkitプラグイン**です。 |
+| **ScriptBlock-Universal** | ScriptBlockPlusの後継となる**プラグイン**、**モッド**です。 |
 
 ### 更新停止
 <details>
