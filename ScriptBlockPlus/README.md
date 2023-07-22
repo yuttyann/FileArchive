@@ -345,12 +345,20 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [ScriptBlockPlus v2.1.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.1.1/ScriptBlockPlus%20v2.1.1-JV8.jar) | `1.9-1.16.5` | `Java8` |
-| [ScriptBlockPlus v2.1.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.1.0/ScriptBlockPlus%20v2.1.0-JV8.jar) | `1.9-1.16.5` | `Java8` |
-| [ScriptBlockPlus v2.0.9](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.9/ScriptBlockPlus%20v2.0.9-JV8.jar) | `1.9-1.16.5` | `Java8` |
-| [ScriptBlockPlus v2.0.8](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.8/ScriptBlockPlus%20v2.0.8-JV8.jar) | `1.9-1.16.5` | `Java8` |
-| [ScriptBlockPlus v2.0.7](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.7/ScriptBlockPlus%20v2.0.7-JV8.jar) | `1.9-1.16.5` | `Java8` |
-| [ScriptBlockPlus v2.0.6](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.6/ScriptBlockPlus%20v2.0.6-JV8.jar) | `1.9-1.16.5` | `Java8` |
+| [ScriptBlockPlus v2.1.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.1.1/ScriptBlockPlus%20v2.1.1-JV8.jar) | `1.9-1.16.5` | [`Vault`](#連携プラグイン), `Java8` |
+| [ScriptBlockPlus v2.1.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.1.0/ScriptBlockPlus%20v2.1.0-JV8.jar) | `1.9-1.16.5` | [`Vault`](#連携プラグイン), `Java8` |
+| [ScriptBlockPlus v2.0.9](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.9/ScriptBlockPlus%20v2.0.9-JV8.jar) | `1.9-1.16.5` | [`Vault`](#連携プラグイン), `Java8` |
+| [ScriptBlockPlus v2.0.8](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.8/ScriptBlockPlus%20v2.0.8-JV8.jar) | `1.9-1.16.5` | [`Vault`](#連携プラグイン), `Java8` |
+| [ScriptBlockPlus v2.0.7](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.7/ScriptBlockPlus%20v2.0.7-JV8.jar) | `1.9-1.16.5` | [`Vault`](#連携プラグイン), `Java8` |
+| [ScriptBlockPlus v2.0.6](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-8/2.0.6/ScriptBlockPlus%20v2.0.6-JV8.jar) | `1.9-1.16.5` | [`Vault`](#連携プラグイン), `Java8` |
+</details>
+
+<details>
+<summary>1.8-1.15.2対応</summary>
+
+| プラグイン | サポート | 前提環境 |
+|:---:|:---:|:---:|
+| [ScriptBlockPlus v1.8.5-ex](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar-ex/1.8.5/ScriptBlockPlus%20v1.8.5-ex.jar) | `1.8-1.15.2` | [`Vault`](#連携プラグイン), `Java8` |
 </details>
 
 <details>
