@@ -9,11 +9,11 @@
 -----------
 | ページ | 説明 |
 |:---|:---|
+| [MCPoteton](https://mcpoteton.com/mcplugin-scriptblockplus) | あらゆる機能の解説をしています。 |
 | [README.md](https://github.com/yuttyann/ScriptBlockPlus/blob/master/README.md) | ScriptBlockPlusのリポジトリの`README.md`です。 |
 | [チュートリアル](https://github.com/yuttyann/ScriptBlockPlus/wiki/%5BJP%5D-Plugin-Tutorial) | 各機能の説明です。 |
 | [コマンドの一覧](https://github.com/yuttyann/ScriptBlockPlus/wiki/%5BJP%5D-Command-and-Permission) | コマンドの引数等の説明です。 |
 | [オプションの一覧](https://github.com/yuttyann/ScriptBlockPlus/wiki/%5BJP%5D-Option-Description) | オプションの利用方法の説明です。 |
-| [MCPoteton](https://mcpoteton.com/mcplugin-scriptblockplus) | あらゆる機能の解説をしています。 |
 
 権限
 -----------
