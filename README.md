@@ -44,7 +44,7 @@
 | [SignTeleport](https://github.com/yuttyann/FileArchive/tree/main/SignTeleport) | 看板に座標とワールド名を書き込む事で移動することができる**Bukkitプラグイン**です。 |
 | [SkullPlugin](https://github.com/yuttyann/FileArchive/tree/main/SkullPlugin) | プレイヤーの頭を入手することができる**Bukkitプラグイン**です。 |
 | [TPBugFix](https://github.com/yuttyann/FileArchive/tree/main/TPBugFix) | 一部バージョンに存在するテレポートに関する不具合を修正する**Bukkitプラグイン**です。 |
-| [WorldProtection](https://github.com/yuttyann/FileArchive/tree/main/) | 簡単な設定でワールドを保護することができる**Bukkitプラグイン**です。 |
+| [WorldProtection](https://github.com/yuttyann/FileArchive/tree/main/WorldProtection) | 簡単な設定でワールドを保護することができる**Bukkitプラグイン**です。 |
 </details>
 
 ## リンク
