@@ -25,7 +25,6 @@
 | scriptblockplus.command.tool | [コマンド](#コマンド) |
 | scriptblockplus.command.reload | [コマンド](#コマンド) |
 | scriptblockplus.command.backup | [コマンド](#コマンド) |
-| scriptblockplus.command.checkver | [コマンド](#コマンド) |
 | scriptblockplus.command.datamigr | [コマンド](#コマンド) |
 | scriptblockplus.command.&lt;scriptkey&gt; | [コマンド](#コマンド) |
 | scriptblockplus.command.selector | [コマンド](#コマンド) |
@@ -51,7 +50,6 @@
 | tool | scriptblockplus.command.tool | OP | 補助ツールの選択ウィンドウを表示します。 |
 | reload | scriptblockplus.command.reload | OP | 全てのファイルの再読み込みを行います。 |
 | backup | scriptblockplus.command.backup | OP | プラグインデータのバックアップを作成します。 |
-| checkver | scriptblockplus.command.checkver | OP | 最新のプラグインが存在するかチェックします。 |
 | datamigr | scriptblockplus.command.datamigr | OP | ScriptBlockのスクリプトをSBPlusへ移行します。 |
 | &lt;scriptkey&gt; create &lt;options&gt; | scriptblockplus.command.&lt;scriptkey&gt; | OP | ブロックにスクリプトを設定します。 |
 | &lt;scriptkey&gt; add &lt;options&gt; | scriptblockplus.command.&lt;scriptkey&gt; | OP | ブロックにスクリプトを追加します。 |
