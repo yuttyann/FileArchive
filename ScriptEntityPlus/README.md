@@ -63,7 +63,7 @@ UUIDの変更(例: 額縁のアイテムを変更等)があった場合設定フ
 <summary>config.yml</summary>
 
 ```yaml
-# ScriptEntityPlus v1.2.2 Config #
+# ScriptEntityPlus v1.2.3 Config #
 
 
 ## ===== 開発者向け ===== ##
@@ -84,7 +84,7 @@ FilterOptions:
 <summary>message.yml</summary>
 
 ```yaml
-# ScriptEntityPlus v1.2.2 Message #
+# ScriptEntityPlus v1.2.3 Message #
 # Author: yuttyann44581
 
 
@@ -129,13 +129,14 @@ ScriptRemoveEntityMessage: '&cエンティティ"%entitytype%"のスクリプト
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**ScriptEntityPlus v1.2.2**](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.2/ScriptEntityPlus%20v1.2.2.jar) | `1.9-1.19.2` | [`ScriptBlockPlus v2.2.1`](#連携プラグイン), `Java8` |
+| [**ScriptEntityPlus v1.2.3**](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.3/ScriptEntityPlus%20v1.2.3.jar) | `1.9-1.20.1` | [`ScriptBlockPlus v2.2.6`](#連携プラグイン), `Java8` |
 
 <details>
 <summary>過去のバージョン</summary>
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
+| [ScriptEntityPlus v1.2.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.2/ScriptEntityPlus%20v1.2.2.jar) | `1.9-1.19.2` | [`ScriptBlockPlus v2.2.1`](#連携プラグイン), `Java8` |
 | [ScriptEntityPlus v1.2.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.1/ScriptEntityPlus%20v1.2.1.jar) | `1.9-1.18` | [`ScriptBlockPlus v2.2.1`](#連携プラグイン), `Java8` |
 | [ScriptEntityPlus v1.2.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.2.0/ScriptEntityPlus%20v1.2.0.jar) | `1.9-1.18` | [`ScriptBlockPlus v2.2.0`](#連携プラグイン), `Java8` |
 | [ScriptEntityPlus v1.1.9](https://github.com/yuttyann/FileArchive/raw/main/ScriptEntityPlus/jar/1.1.9/ScriptEntityPlus%20v1.1.9.jar) | `1.9-1.17.1` | [`ScriptBlockPlus v2.1.8`](#連携プラグイン), `Java8` |
@@ -164,4 +165,4 @@ ScriptRemoveEntityMessage: '&cエンティティ"%entitytype%"のスクリプト
 -----------
 | プラグイン | 実装 | 説明 |
 |:---|:---|:---|
-| [ScriptBlockPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus) | `1.0.0-1.2.2` | プラグインを動作させるために必要です。 |
+| [ScriptBlockPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptBlockPlus) | `1.0.0-1.2.3` | プラグインを動作させるために必要です。 |

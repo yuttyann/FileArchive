@@ -69,24 +69,9 @@
 <details>
 <summary>config.yml</summary>
 
-**現在`UpdateChecker`は動作しません。**
 ```yaml
-# ScriptBlockPlus v2.2.5 Config #
+# ScriptBlockPlus v2.2.6 Config #
 
-
-## ===== 自動アップデート ===== ##
-# [true -> 有効 | false -> 無効]
-# 確認メッセージは"OP"にしか表示されません。
-# 最新バージョンを確認するかどうか。
-UpdateChecker: true
-
-# 前提 "UpdateChecker: true"
-# 最新のプラグインをダウンロードするかどうか。
-AutoDownload: true
-
-# 前提 "UpdateChecker: true"
-# ダウンロードした更新内容を、メモ帳で開くかどうか。
-OpenChangeLog: true
 
 ## ===== Json ===== ##
 # [true -> 有効 | false -> 無効]
@@ -135,7 +120,7 @@ Actions:
 <summary>message.yml</summary>
 
 ```yaml
-# ScriptBlockPlus v2.2.5 Message #
+# ScriptBlockPlus v2.2.6 Message #
 # 作成者: yuttyann44581
 
 
@@ -144,7 +129,6 @@ Actions:
 ToolCommandMessage: 'tool - 補助ツールの選択ウィンドウを表示します。'
 ReloadCommandMessage: 'reload - 全てのファイルの再読み込みを行います。'
 BackupCommandMessage: 'backup - プラグインデータのバックアップを作成します。'
-CheckVerCommandMessage: 'checkver - 最新のプラグインが存在するかチェックします。'
 DataMigrCommandMessage: 'datamigr - ScriptBlockのスクリプトをSBPlusへ移行します。'
 CreateCommandMessage: '<scriptkey> create <options> - ブロックにスクリプトを設定します。'
 AddCommandMessage: '<scriptkey> add <options> - ブロックにスクリプトを追加します。'
@@ -233,24 +217,9 @@ GiveToolMessage: '&a補助ツールが配布されました。'
 AllFileReloadMessage: '&a全てのファイルの再読み込みが完了しました。'
 PluginBackupMessage: '&aプラグインデータのバックアップが完了しました。'
 ErrorPluginBackupMessage: '&cプラグインデータのバックアップに失敗しました。'
-NotLatestPluginMessage: '&b現在のバージョンが最新です。'
 NotScriptBlockFileMessage: '&cScriptBlockのデータファイルが見つかりません。'
 DataMigrStartMessage: '&7ScriptBlockのスクリプトを移行しています....'
 DataMigrEndMessage: '&bスクリプトの移行が完了しました。'
-UpdateDownloadStartMessage: '&6最新のプラグインをダウンロードしています...'
-
-# %name% : ファイル名
-# %path% : ファイルパス
-# %size% : ファイルサイズ
-UpdateDownloadEndMessage: '&6ダウンロードが終了しました。|~ファイル名: %name%|~ファイルサイズ: %size%|~ファイルパス: %path%'
-
-# %name%    : プラグイン名
-# %version% : 最新バージョン
-# %details% : 更新内容
-UpdateCheckMessage: '&b最新のバージョンを検出しました。|~v%version%にアップデートしてください。|~プラグイン名: %name%|~☆アップデート内容☆|~%details%'
-
-# プレースホルダはありません
-ErrorUpdateMessage: '&cアップデートに失敗しました。'
 
 # %scriptkey% : スクリプトキー
 ScriptCopyMessage: '&aブロック"%scriptkey%"のスクリプトをコピーしました。'
@@ -338,7 +307,7 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**ScriptBlockPlus v2.2.5**](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.2.5/ScriptBlockPlus%20v2.2.5.jar) | `1.9-1.19.3` | `Java11` |
+| [**ScriptBlockPlus v2.2.6**](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.2.6/ScriptBlockPlus%20v2.2.6.jar) | `1.9-1.20.1` | `Java11` |
 
 <details>
 <summary>Java8対応</summary>
@@ -366,6 +335,7 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
+| [ScriptBlockPlus v2.2.5](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.2.5/ScriptBlockPlus%20v2.2.5.jar) | `1.9-1.19.3` | `Java11` |
 | [ScriptBlockPlus v2.2.4](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.2.4/ScriptBlockPlus%20v2.2.4.jar) | `1.9-1.19.2` | `Java11` |
 | [ScriptBlockPlus v2.2.3](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.2.3/ScriptBlockPlus%20v2.2.3.jar) | `1.9-1.19.2` | `Java11` |
 | [ScriptBlockPlus v2.2.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.2.2/ScriptBlockPlus%20v2.2.2.jar) | `1.9-1.18` | `Java11` |
@@ -476,10 +446,10 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 -----------
 | プラグイン | 実装 | 説明 |
 |:---|:---|:---|
-| [Vault](https://www.spigotmc.org/resources/34315/) | `1.0.0-2.2.5` | 権限、経済系の機能を利用することができます。 |
-| [DiscordSRV](https://www.spigotmc.org/resources/18494/) | `2.1.4-2.2.5` | ディスコ―ドと連携することができます。 |
-| [PlaceholderAPI](https://www.spigotmc.org/resources/6245/) | `1.8.7-2.2.5` | プレースホルダを更に拡張することができます。 |
-| [ScriptEntityPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptEntityPlus) | `1.9.3-2.2.5` | エンティティにスクリプトを紐付けすることができます。 |
+| [Vault](https://www.spigotmc.org/resources/34315/) | `1.0.0-2.2.6` | 権限、経済系の機能を利用することができます。 |
+| [DiscordSRV](https://www.spigotmc.org/resources/18494/) | `2.1.4-2.2.6` | ディスコ―ドと連携することができます。 |
+| [PlaceholderAPI](https://www.spigotmc.org/resources/6245/) | `1.8.7-2.2.6` | プレースホルダを更に拡張することができます。 |
+| [ScriptEntityPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptEntityPlus) | `1.9.3-2.2.6` | エンティティにスクリプトを紐付けすることができます。 |
 
 <details>
 <summary>過去の連携プラグイン</summary>
