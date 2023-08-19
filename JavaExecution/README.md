@@ -15,4 +15,4 @@ Jarをダブルクリックで起動できない人向けの**アプリケーシ
 -----------
 | プラグイン | 前提環境 |
 |:---:|:---:|
-| [**JavaExecution v1.0.0**](https://github.com/yuttyann/FileArchive/raw/main/JavaExecution/exe/1.0.0/JavaExecution%20v1.0.0.jar) | `.NET Framework 4.7.1` |
+| [**JavaExecution v1.0.0**](https://github.com/yuttyann/FileArchive/raw/main/JavaExecution/exe/1.0.0/JavaExecution%20v1.0.0.exe) | `.NET Framework 4.7.1` |
