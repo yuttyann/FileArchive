@@ -68,9 +68,6 @@
 <summary>config.yml</summary>
 
 ```yaml
-# ScriptBlockPlus v2.3.2 Config #
-
-
 ## ===== Json ===== ##
 # [true -> 有効 | false -> 無効]
 # リロード、サーバー起動時に全ファイルをキャッシュします。
@@ -118,10 +115,6 @@ Actions:
 <summary>message.yml</summary>
 
 ```yaml
-# ScriptBlockPlus v2.3.2 Message #
-# 作成者: yuttyann44581
-
-
 ## ===== Commands ===== ##
 # プレースホルダはありません
 ToolCommandMessage: 'tool - 補助ツールの選択ウィンドウを表示します。'
@@ -305,7 +298,7 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**ScriptBlockPlus v2.3.2**](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.2/ScriptBlockPlus%20v2.3.2.jar) | `1.9-1.21` | `Java11` |
+| [**ScriptBlockPlus v2.3.3**](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.3/ScriptBlockPlus%20v2.3.3.jar) | `1.9-1.21.5` | `Java11` |
 
 <details>
 <summary>Java8対応</summary>
@@ -333,6 +326,7 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
+| [ScriptBlockPlus v2.3.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.2/ScriptBlockPlus%20v2.3.2.jar) | `1.9-1.21` | `Java11` |
 | [ScriptBlockPlus v2.3.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.1/ScriptBlockPlus%20v2.3.1.jar) | `1.9-1.21` | `Java11` |
 | [ScriptBlockPlus v2.3.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.0/ScriptBlockPlus%20v2.3.0.jar) | `1.9-1.21` | `Java11` |
 | [ScriptBlockPlus v2.2.8](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.2.8/ScriptBlockPlus%20v2.2.8.jar) | `1.9-1.20.2` | `Java11` |
@@ -449,10 +443,10 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 -----------
 | プラグイン | 実装 | 説明 |
 |:---|:---|:---|
-| [Vault](https://www.spigotmc.org/resources/34315/) | `1.0.0-2.2.6` | 権限、経済系の機能を利用することができます。 |
-| [DiscordSRV](https://www.spigotmc.org/resources/18494/) | `2.1.4-2.2.6` | ディスコ―ドと連携することができます。 |
-| [PlaceholderAPI](https://www.spigotmc.org/resources/6245/) | `1.8.7-2.2.6` | プレースホルダを更に拡張することができます。 |
-| [ScriptEntityPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptEntityPlus) | `1.9.3-2.2.6` | エンティティにスクリプトを紐付けすることができます。 |
+| [Vault](https://www.spigotmc.org/resources/34315/) | `1.0.0-2.3.3` | 権限、経済系の機能を利用することができます。 |
+| [DiscordSRV](https://www.spigotmc.org/resources/18494/) | `2.1.4-2.3.3` | ディスコ―ドと連携することができます。 |
+| [PlaceholderAPI](https://www.spigotmc.org/resources/6245/) | `1.8.7-2.3.3` | プレースホルダを更に拡張することができます。 |
+| [ScriptEntityPlus](https://github.com/yuttyann/FileArchive/tree/main/ScriptEntityPlus) | `1.9.3-2.3.3` | エンティティにスクリプトを紐付けすることができます。 |
 
 <details>
 <summary>過去の連携プラグイン</summary>
