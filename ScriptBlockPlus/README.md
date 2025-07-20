@@ -298,7 +298,7 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 -----------
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
-| [**ScriptBlockPlus v2.3.3**](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.3/ScriptBlockPlus%20v2.3.3.jar) | `1.9-1.21.5` | `Java11` |
+| [**ScriptBlockPlus v2.3.4**](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.4/ScriptBlockPlus%20v2.3.4.jar) | `1.9-1.21.8` | `Java11` |
 
 <details>
 <summary>Java8対応</summary>
@@ -326,6 +326,7 @@ ConsoleSelectorRemoveMessage: '&cスクリプトが削除されました。[キ�
 
 | プラグイン | サポート | 前提環境 |
 |:---:|:---:|:---:|
+| [ScriptBlockPlus v2.3.3](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.3/ScriptBlockPlus%20v2.3.3.jar) | `1.9-1.21.5` | `Java11` |
 | [ScriptBlockPlus v2.3.2](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.2/ScriptBlockPlus%20v2.3.2.jar) | `1.9-1.21` | `Java11` |
 | [ScriptBlockPlus v2.3.1](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.1/ScriptBlockPlus%20v2.3.1.jar) | `1.9-1.21` | `Java11` |
 | [ScriptBlockPlus v2.3.0](https://github.com/yuttyann/FileArchive/raw/main/ScriptBlockPlus/jar/2.3.0/ScriptBlockPlus%20v2.3.0.jar) | `1.9-1.21` | `Java11` |
